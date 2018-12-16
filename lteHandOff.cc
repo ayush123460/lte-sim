@@ -9,7 +9,7 @@
  
  using namespace ns3;
  
- NS_LOG_COMPONENT_DEFINE ("LenaX2HandoverExample");
+ NS_LOG_COMPONENT_DEFINE ("LteHandOffExample");
  
  void
  NotifyConnectionEstablishedUe (std::string context,
